@@ -2,7 +2,7 @@
 [general]
 
 	[general.general]
-		timestamps_format = 0
+		timestamps_format = 1
 		streamer_mode = false
 		modcore_warning = true
 		replace_window_title = true
@@ -49,7 +49,7 @@
 
 	[notifications.general]
 		disable_all_notifications = false
-		host_world_ip_warning = true
+		host_world_ip_warning = false
 		update_notifications = true
 		screenshot_toast_duration = 1
 		message_sound = true

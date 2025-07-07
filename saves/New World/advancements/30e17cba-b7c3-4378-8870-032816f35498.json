@@ -1,4 +1,73 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-07 18:55:50 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-07-07 18:55:50 +0200"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-07-07 18:55:55 +0200"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-07-07 18:55:55 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2025-07-07 18:55:55 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-07-07 18:56:39 +0200",
+      "cold_desert": "2025-07-07 18:55:55 +0200",
+      "old_growth_woodland": "2025-07-07 18:56:32 +0200",
+      "prairie": "2025-07-07 18:57:04 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-07-07 18:56:37 +0200"
+    },
+    "done": false
+  },
   "betterfurnacesreforged:recipes/platinum_furnace": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -18,12 +87,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/blasting_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -39,24 +102,6 @@
   "create:root": {
     "criteria": {
       "0": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "more_chests:recipes/decorations/light_blue_wool_chest": {
-    "criteria": {
-      "has_light_blue_wool_chest": "2025-07-07 18:57:23 +0200"
-    },
-    "done": true
-  },
-  "more_chests:recipes/decorations/spruce_plank_chest_log": {
-    "criteria": {
-      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-07 18:55:50 +0200"
     },
     "done": true
   },
@@ -78,33 +123,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/diamond_forge": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-07-07 18:55:55 +0200"
-    },
-    "done": true
-  },
   "betterfurnacesreforged:recipes/gold_conductor_block": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-07-07 18:55:55 +0200"
     },
     "done": true
   },
@@ -120,12 +147,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/steel_forge": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -135,12 +156,6 @@
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
       "has_clock": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "cold_desert": "2025-07-07 18:55:55 +0200"
     },
     "done": true
   },
@@ -162,24 +177,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
-  "more_chests:recipes/decorations/iron_chest": {
-    "criteria": {
-      "has_wooden_chest": "2025-07-07 18:57:26 +0200"
-    },
-    "done": true
-  },
   "betterfurnacesreforged:recipes/amethyst_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -197,12 +194,6 @@
       "has_ingredient": "2025-07-07 18:57:22 +0200"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
   },
   "betterfurnacesreforged:recipes/color_upgrade": {
     "criteria": {
@@ -228,27 +219,9 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/diamond_furnace": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
-  "more_chests:recipes/decorations/spruce_plank_chest": {
-    "criteria": {
-      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
     },
     "done": true
   },
@@ -258,39 +231,15 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/cobblestone_generator": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/iron_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "more_chests:recipes/decorations/gold_chest": {
-    "criteria": {
-      "has_upgrade_chest": "2025-07-07 18:57:24 +0200"
-    },
-    "done": true
-  },
-  "more_chests:recipes/decorations/spruce_plank_chest_planks": {
-    "criteria": {
-      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
     },
     "done": true
   },
@@ -317,12 +266,6 @@
       "has_ingredient": "2025-07-07 18:57:22 +0200"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
   },
   "betterfurnacesreforged:recipes/copper_furnace": {
     "criteria": {
@@ -360,12 +303,6 @@
     },
     "done": true
   },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-07-07 18:55:50 +0200"
-    },
-    "done": true
-  },
   "betterfurnacesreforged:recipes/extreme_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -375,12 +312,6 @@
   "seasonsextras:recipes/crop_season_tester": {
     "criteria": {
       "has_iron": "2025-07-07 18:57:22 +0200"
-    },
-    "done": true
-  },
-  "more_chests:recipes/decorations/copper_chest": {
-    "criteria": {
-      "has_wooden_chest": "2025-07-07 18:57:26 +0200"
     },
     "done": true
   },
@@ -408,12 +339,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/iron_forge": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -425,18 +350,6 @@
       "has_furnace": "2025-07-07 18:57:22 +0200"
     },
     "done": true
-  },
-  "more_chests:recipes/decorations/red_wool_chest": {
-    "criteria": {
-      "has_red_wool_chest": "2025-07-07 18:57:25 +0200"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
   },
   "betterfurnacesreforged:recipes/iron_conductor_block": {
     "criteria": {
@@ -457,15 +370,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-07-07 18:56:39 +0200",
-      "cold_desert": "2025-07-07 18:55:55 +0200",
-      "old_growth_woodland": "2025-07-07 18:56:32 +0200",
-      "prairie": "2025-07-07 18:57:04 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/ultimate_ore_processing_upgrade": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
@@ -478,18 +382,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:59:35 +0200"
-    },
-    "done": false
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
-    },
-    "done": false
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-07 18:57:22 +0200"
@@ -501,12 +393,6 @@
       "has_ingredient": "2025-07-07 18:57:22 +0200"
     },
     "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-07 18:55:55 +0200"
-    },
-    "done": false
   },
   "betterfurnacesreforged:recipes/iron_furnace": {
     "criteria": {
@@ -526,15 +412,267 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-07-07 18:56:37 +0200"
-    },
-    "done": false
-  },
   "betterfurnacesreforged:recipes/gold_furnace": {
     "criteria": {
       "has_ingredient": "2025-07-07 18:57:22 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/light_blue_wool_chest": {
+    "criteria": {
+      "has_light_blue_wool_chest": "2025-07-07 18:57:23 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/gold_chest": {
+    "criteria": {
+      "has_upgrade_chest": "2025-07-07 18:57:24 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/red_wool_chest": {
+    "criteria": {
+      "has_red_wool_chest": "2025-07-07 18:57:25 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/spruce_plank_chest_log": {
+    "criteria": {
+      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/iron_chest": {
+    "criteria": {
+      "has_wooden_chest": "2025-07-07 18:57:26 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/spruce_plank_chest": {
+    "criteria": {
+      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/spruce_plank_chest_planks": {
+    "criteria": {
+      "has_spruce_plank_chest": "2025-07-07 18:57:26 +0200"
+    },
+    "done": true
+  },
+  "more_chests:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_wooden_chest": "2025-07-07 18:57:26 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-07 23:23:55 +0200"
+    },
+    "done": false
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:17:46 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:solar_panel": {
+    "criteria": {
+      "has_solar_panel": "2025-07-07 23:21:39 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-07-07 23:25:48 +0200"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-07-07 23:20:38 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "has_tier_4_rocket": "2025-07-07 23:21:37 +0200"
     },
     "done": true
   },
